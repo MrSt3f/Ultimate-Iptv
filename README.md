@@ -4,7 +4,7 @@ This repository contains the most watched films from altadefinizione, a streamin
 
 |**film-iptv**          | **links**                                                        |
 |----------------------:|:----------------------------------------------------------------:|
-|**film-iptv.m3u**      | https://github.com/MrSt3f/Light-Iptv/raw/main/lightiptv.m3u      |
+|**film-iptv.m3u**      | https://github.com/MrSt3f/Film-Iptv/raw/main/film-iptv.m3u       |
 
 # How to use the Light-Iptv List
 
