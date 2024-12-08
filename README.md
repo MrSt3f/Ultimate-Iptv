@@ -7,7 +7,7 @@ I take no responsibility for any outcomes or consequences arising from this repo
 |----------------------:|:----------------------------------------------------------------:|
 |**film-iptv.m3u**      | https://github.com/MrSt3f/Film-Iptv/raw/main/film-iptv.m3u       |
 
-# How to use the Light-Iptv List
+# How to use the Film-Iptv List
 
 Copy the .m3u url from above and paste it in an appropriate app that supports .m3u files, as an example: VLC Media player, Kodi.
 If you want to utilize the .m3u file go to this **[Link](https://github.com/MrSt3f/Film-Iptv/releases/tag/iptv)**
