@@ -1,0 +1,25 @@
+#EXTM3U
+#EXTINF:-1 tvg-chno="1" tvg-logo="https://pad.mymovies.it/filmclub/2001/05/033/locandina.jpg" group-title="Animazione - Saga Shrek",Shrek 1
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://hfs289.serversicuro.cc/hls/,dnzpd2lb3pg4a3gyvddx5njiyloq7mu2yawll5jr5iexx77tdml3uzqiaqka,.urlset/master.m3u8
+#EXTINF:-1 tvg-chno="2" tvg-logo="https://pad.mymovies.it/filmclub/2006/05/047/locandina.jpg" group-title="Animazione - Saga Shrek",Shrek 2
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://hfs292.serversicuro.cc/hls/,dnzpf2tb3pg4a3gyvdch7lrqyfx4i7pamwkwte7ynvb22g32taek2owgzfxq,.urlset/master.m3u8
+#EXTINF:-1 tvg-chno="3" tvg-logo="https://mr.comingsoon.it/imgdb/locandine/big/574.jpg" group-title="Animazione - Saga Shrek",Shrek 3
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://hfs262.serversicuro.cc/hls/,dnzpf23b3pg4a3gyvddx5kzcrplfuhx7g7jds7dx7x5dbufwtcexc4bh4zuq,.urlset/master.m3u8
+#EXTINF:-1 tvg-chno="4" tvg-logo="https://pad.mymovies.it/filmclub/2009/04/079/locandina.jpg" group-title="Animazione - Saga Shrek",Shrek e vissero tutti felici e contenti
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://hfs263.serversicuro.cc/hls/,dnzpeukb3pg4a3gyvdch5pjfy7ls75nruwvgltyk5cy34kd7l3vvdpv65b6a,.urlset/master.m3u8
+#EXTINF:-1 tvg-chno="5" tvg-logo="https://mr.comingsoon.it/imgdb/locandine/big/49270.jpg" group-title="Animazione - Saga Croods",I Croods
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://hfs269.serversicuro.cc/hls/,dnzpfbrg3pg4a3gyvdbh5lrzrpdzjd3iuptlcoafx46eyd2d72oz4drtl4jq,.urlset/master.m3u8
+#EXTINF:-1 tvg-chno="6" tvg-logo="https://pad.mymovies.it/filmclub/2019/11/319/locandina.jpg" group-title="Animazione - Saga Croods",I Croods 2
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://hfs292.serversicuro.cc/hls/dnzpey3p3dg4a3gyvapx7ndrshmxte7evdqbt5fl7rnhmrwdjidxpqyxb3ba/index-v1-a1.m3u8
+#EXTINF:-1 tvg-chno="7" tvg-logo="https://cdn.shopify.com/s/files/1/0398/4202/1535/products/00722-Cars-_Blackstone__Rounded_768x.pngvlc" group-title="Animazione - Saga Cars",Cars Motori Ruggenti
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://hfs289.serversicuro.cc/hls/dnzpojs43pg4a3gyvdch7nrysuptbgks36sslw45a,ewlmuzoh56trazzcqya,ab3ouzoh56x7qz6d47q,.urlset/master.m3u8
+#EXTINF:-1 tvg-chno="8" tvg-logo="https://pad.mymovies.it/filmclub/2023/06/181/locandina.jpg" group-title="Comico",SantoCielo
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://hfs284.serversicuro.cc/hls/dnzpfurb2xg4a3gyvbax5nbqypke5hexd66ydk6r2rgwvai3ofoxfklydceq/index-v1-a1.m3u8
