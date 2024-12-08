@@ -1,6 +1,7 @@
 # Film-Iptv
 
 This repository contains the most watched films from altadefinizione, a streaming-provider known in italy.
+I take no responsibility for any outcomes or consequences arising from this repository.
 
 |**film-iptv**          | **links**                                                        |
 |----------------------:|:----------------------------------------------------------------:|
